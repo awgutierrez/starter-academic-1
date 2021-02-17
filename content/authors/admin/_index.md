@@ -1,20 +1,23 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Armando W. Gutiérrez
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
+- name: INRIA Saclay
+  url: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
+  
+- name: École polytechnique
+  url: https://www.polytechnique.edu/
+  
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Postdoctoral researcher at INRIA Saclay and École polytechnique. My research interests lie broadly in metric geometry, functional analysis, probability, and dynamics.
 
 # Interests to show in About widget
 interests:
@@ -25,15 +28,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doctor of Science (Technology)
+    institution: Aalto University
+    link: https://www.aalto.fi/en
+    year: 2019
+  - course: Diploma in Mathematical Engineering
+    institution: Central University of Ecuador
+    link: http://www.uce.edu.ec/
+    year: 2010
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,18 +46,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar  
+  icon_pack: ai
+  link: https://scholar.google.fi/citations?user=hnBZJrQAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/awgutierrez
+# - icon: linkedin
+ # icon_pack: fab
+ # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher at INRIA Saclay and CMAP École polytechnique. My research work focuses on developing geometric methods for deep learning by using techniques of metric geometry, tropical optimisation and nonlinear dynamics. My research work is supervised by <a href="https://homepages.dias.ie/walsh/" target="_blank">Cormac Walsh</a> and <a href="http://www.cmap.polytechnique.fr/~gaubert/" target="_blank">Stéphane Gaubert</a>.   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I earned a Doctor of Science degree from Aalto University in 2019. My doctoral dissertation titled "<a href="https://aaltodoc.aalto.fi/handle/123456789/41224" target="_blank">Metric compactification of Banach spaces</a>" was supervised by <a href="https://www.unige.ch/math/folks/karlsson/" target="_blank">Anders Karlsson</a> from University of Geneva together with <a href="https://math.aalto.fi/~kkytola/" target="_blank">Kalle Kytölä</a> and <a href="https://math.aalto.fi/en/people/olavi.nevanlinna" target="_blank">Olavi Nevanlinna</a> from Aalto University. 
