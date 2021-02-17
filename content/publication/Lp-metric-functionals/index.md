@@ -28,10 +28,10 @@ publication_types: ["2"]
 publication: In *Annals of Functional Analysis*
 publication_short: In *Ann. Funct. Anal.*
 
-abstract: We present a complete characterization of the metric compactification of Lp spaces for $1 \leq p < \infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for 1 < p < \infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
+abstract: We present a complete characterization of the metric compactification of Lp spaces for $1 \leq p < \infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
 
 # Summary. An optional shortened abstract.
-summary: We present a complete characterization of the metric compactification of Lp spaces for $1 \leq p < \infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for 1 < p < \infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
+summary: We present a complete characterization of the metric compactification of Lp spaces for $1 \leq p < \infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
 
 tags: []
 
@@ -64,24 +64,24 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+# Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
