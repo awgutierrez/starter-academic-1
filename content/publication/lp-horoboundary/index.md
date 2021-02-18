@@ -45,9 +45,7 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-  - icon_pack: ai
-    icon: arxiv
-#    name: Follow
+  - name: arXiv
     url: 'https://arxiv.org/abs/1709.03462'
     
     
