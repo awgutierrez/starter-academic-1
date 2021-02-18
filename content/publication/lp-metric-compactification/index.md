@@ -1,5 +1,5 @@
 ---
-title: "On the metric compactification of infinite-dimensional $\ell_{p}$ spaces $$\infty$$"
+title: "On the metric compactification of infinite-dimensional $\\ell_{p}$ spaces"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -31,14 +31,14 @@ publication_short: In *Canad. Math. Bull. 62(3), 491-507*
 abstract: The notion of metric compactification was introduced by Gromov and later rediscovered by Rieffel. 
           It has been mainly studied on proper geodesic metric spaces. We present here a generalization of 
           the metric compactification that can be applied to infinite-dimensional Banach spaces. 
-          Thereafter we give a complete description of the metric compactification of infinite-dimensional $\ell_p$ spaces for all $1 \leq p < \infty$. 
+          Thereafter we give a complete description of the metric compactification of infinite-dimensional $\\ell_p$ spaces for all $1 \\leq p < \\infty$. 
           We also give a full characterization of the metric compactification of infinite-dimensional Hilbert spaces.
 
 # Summary. An optional shortened abstract.
 summary: The notion of metric compactification was introduced by Gromov and later rediscovered by Rieffel. 
           It has been mainly studied on proper geodesic metric spaces. We present here a generalization of 
           the metric compactification that can be applied to infinite-dimensional Banach spaces. 
-          Thereafter we give a complete description of the metric compactification of infinite-dimensional $\ell_p$ spaces for all $1 \leq p < \infty$. 
+          Thereafter we give a complete description of the metric compactification of infinite-dimensional $\\ell_p$ spaces for all $1 \\leq p < \\infty$. 
           We also give a full characterization of the metric compactification of infinite-dimensional Hilbert spaces.
 
 
@@ -52,7 +52,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-the-metric-compactification-of-infinitedimensional-ell-p-spaces/BA73E83FEC3E2E7BD7215211C5005EC3/share/1b752366af87d4023e9882f0bbbd700815464f37'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
