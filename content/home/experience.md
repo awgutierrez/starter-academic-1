@@ -24,9 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Postdoctoral Researcher
-    company: ['INRIA Saclay','École polytechnique'] 
-   # company_url: ['https://www.inria.fr/en/centre-inria-saclay-ile-de-france',
-    organization_url: 'https://www.polytechnique.edu/'
+    company: INRIA Saclay and École polytechnique 
+    company_url: ''
     location: France
     date_start: '2020-08-01'
     date_end: ''
@@ -36,7 +35,7 @@ experience:
         
   - title: Postdoctoral Researcher
     company: Aalto University
-    company_url: 'https://www.aalto.fi/en'
+    company_url: ''
     location: Finland
     date_start: '2019-01-01'
     date_end: '2020-05-31'
@@ -47,7 +46,7 @@ experience:
         
   - title: Doctoral Candidate
     company: Aalto University
-    company_url: 'https://www.aalto.fi/en'
+    company_url: ''
     location: Finland
     date_start: '2013-08-01'
     date_end: '2018-12-31'
