@@ -29,13 +29,15 @@ publication: In *Colloquium Mathematicum*
 publication_short: In *Colloq. Math. 155, No. 1, 51-65*
 
 abstract: We give a complete description of the horofunction boundary of finite-dimensional $\\ell_{p}$ spaces for $1 \\leq p \\leq \\infty$. 
-          We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}={1,…,N}$, and the corresponding horofunction boundary.
-          As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ of $\\mathbf{R}^\\mathcal{N}$.
+          We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary.
+          As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone 
+          $\\mathbf{R}^\\mathcal{N}_{+}$ of $\\mathbf{R}^\\mathcal{N}$.
 
 # Summary. An optional shortened abstract.
 summary: We give a complete description of the horofunction boundary of finite-dimensional $\\ell_{p}$ spaces for $1 \\leq p \\leq \\infty$. 
-          We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}={1,…,N}$, and the corresponding horofunction boundary.
-          As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ of $\\mathbf{R}^\\mathcal{N}$.
+          We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary.
+          As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ 
+          of $\\mathbf{R}^\\mathcal{N}$.
 tags: []
 
 # Display this page in the Featured widget?
