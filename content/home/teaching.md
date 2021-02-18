@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: teaching
+widget: pages
 active: true
 
 # This file represents a page section.
