@@ -1,5 +1,5 @@
 ---
-title: "On the metric compactification of infinite-dimensional $\ell_{p}$ spaces $\infty$"
+title: "On the metric compactification of infinite-dimensional $\ell_{p}$ spaces $$\infty$$"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
