@@ -1,7 +1,5 @@
 ---
-# An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
-widget: accomplishments
+widget: teaching
 active: true
 
 # This file represents a page section.
