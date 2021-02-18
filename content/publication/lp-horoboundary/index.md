@@ -12,7 +12,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2019-00-00T00:00:00Z"
+date: "2018-10-19T00:00:00Z"
 doi: "10.4064/cm7320-3-2018"
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Colloquium Mathematicum*
-publication_short: In *Colloq. Math. 155, No. 1, 51-65*
+publication_short: *Colloq. Math. 155, No. 1, 51-65 (2019)*
 
 abstract: We give a complete description of the horofunction boundary of finite-dimensional $\\ell_{p}$ spaces for $1 \\leq p \\leq \\infty$. 
           We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary.
