@@ -38,7 +38,8 @@ summary: We give a complete description of the horofunction boundary of finite-d
           We also study the variation norm on $\\mathbf{R}^\\mathcal{N}$, $\\mathcal{N}=\\{1,…,N\\}$, and the corresponding horofunction boundary.
           As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ 
           of $\\mathbf{R}^\\mathcal{N}$.
-tags: []
+
+tags: ["horofunction boundary","horofunction","Busemann function","horofunction compactification","metric spaces","$\\ell_p$ spaces","variation norm","Hilbert's projective metric","fixed points","tropical operator","Perron's theorem","Hilbert metric cones"]
 
 # Display this page in the Featured widget?
 featured: true
