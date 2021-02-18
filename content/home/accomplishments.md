@@ -30,8 +30,7 @@ item:
   organization: Aalto University
   organization_url: ""
   title: Brownian motion and stochastic analysis
-  url: "https://mycourses.aalto.fi/course/view.php?id=26934"
-
+  url: https://mycourses.aalto.fi/course/view.php?id=26934
 - certificate_url: ""
   date_end: "2020-04-00"
   date_start: "2020-02-00"
@@ -40,7 +39,6 @@ item:
   organization_url: 
   title: First course in probability and statistics
   url: https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1112926672
-
 - certificate_url: ""
   date_end: "2020-02-00"
   date_start: "2020-01-00"
@@ -48,5 +46,5 @@ item:
   organization: Aalto University
   organization_url: ""
   title: Metric spaces
-  url: "https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1142267517"
+  url: https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1142267517
 ---
