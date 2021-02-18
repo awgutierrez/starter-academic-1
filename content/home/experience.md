@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: 'Postdoctoral Researcher'
+    company: INRIA Saclay
+    company_url: 'https://www.inria.fr/en/centre-inria-saclay-ile-de-france'
+    organization:  École polytechnique
+    organization_url: 'https://www.polytechnique.edu/'
+    location: France
+    date_start: '2020-08-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: >- 
+        I am carrying out scientific research in mathematics with emphasis in metric geometry, tropical optimisation and dynamics. 
+        My research work is supervised by [Cormac Walsh](https://homepages.dias.ie/walsh/) and Stéphane Gaubert.
         
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Postdoctoral Researcher
+    company: Aalto University
+    company_url: 'https://www.aalto.fi/en'
+    location: Finland
+    date_start: '2019-01-01'
+    date_end: '2020-05-31'
+    description: >-
+        I conducted scientific research in mathematics with emphasis in metric geometry and probability with applications in dynamics. 
+        I also worked as a teaching assistant in courses such as complex analysis, metric spaces, curves and surfaces, stochastic analysis, probability and statistics. 
+        My supervisor was Kalle Kytölä.
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Doctoral Candidate
+    company: Aalto University
+    company_url: 'https://www.aalto.fi/en'
+    location: Finland
+    date_start: '2013-08-01'
+    date_end: '2018-12-31'
+    description: >-
+        I conducted scientific research in mathematics with emphasis in metric geometry, functional analysis and probability. 
+        I developed methods and techniques to describe geometric features of metric spaces.
+        I also worked as a teaching assistant in courses such as metric spaces, complex analysis, functional analysis, probability theory, and stochastic processes.
 ---
