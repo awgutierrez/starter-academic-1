@@ -13,10 +13,10 @@
   url = "#featured"
   weight = 120
 
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 130
+#[[main]]
+#  name = "Teaching"
+ # url = "#teaching"
+  #weight = 130
   
 [[main]]
   name = "Talks"
