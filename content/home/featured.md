@@ -9,6 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
+date_format: Jan 2006
+
 title: Publications
 subtitle: ""
 
