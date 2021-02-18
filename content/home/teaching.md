@@ -1,4 +1,5 @@
 ---
+
 widget: teaching
 active: true
 
@@ -25,26 +26,24 @@ item:
   date_end: "2020-05-22"
   date_start: "2020-04-14"  
   description: ""
-  organization: "Aalto University"
+  organization: Aalto University
   organization_url: ""
-  title: "Brownian motion and stochastic analysis"
+  title: Brownian motion and stochastic analysis
   url: https://mycourses.aalto.fi/course/view.php?id=26934
-  
 - certificate_url: ""
   date_end: "2020-04-07"
   date_start: "2020-02-24"
   description: ""
-  organization: "Aalto University"
+  organization: Aalto University
   organization_url: 
-  title: "First course in probability and statistics"
+  title: First course in probability and statistics
   url: https://bit.ly/39qkw6N
-
 - certificate_url: ""
   date_end: "2020-02-20"
   date_start: "2020-01-07"
   description: ""
-  organization: "Aalto University"
+  organization: Aalto University
   organization_url: ""
-  title: "Metric spaces"
+  title: Metric spaces
   url: https://bit.ly/3skFWuA
 ---
