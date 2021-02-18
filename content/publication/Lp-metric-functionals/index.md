@@ -28,10 +28,10 @@ publication_types: ["2"]
 publication: In *Annals of Functional Analysis*
 publication_short: In *Ann. Funct. Anal. 11, 227–243*
 
-abstract: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \leq p < \infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
+abstract: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \\leq p < \\infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \\infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
 
 # Summary. An optional shortened abstract.
-summary: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \leq p < \infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
+summary: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \\leq p < \\infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \\infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
 
 tags: []
 
