@@ -31,6 +31,7 @@ item:
   organization_url: ""
   title: Brownian motion and stochastic analysis
   url: https://mycourses.aalto.fi/course/view.php?id=26934
+  
 - certificate_url: ""
   date_end: "2020-04-07"
   date_start: "2020-02-24"
@@ -39,6 +40,7 @@ item:
   organization_url: ""
   title: First course in probability and statistics
   url: https://bit.ly/39qkw6N
+  
 - certificate_url: ""
   date_end: "2020-02-20"
   date_start: "2020-01-07"
