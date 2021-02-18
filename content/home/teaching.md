@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: teaching
 active: true
 
 # This file represents a page section.
@@ -17,7 +17,7 @@ title: "Teaching experience"
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-
+content: courses
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
