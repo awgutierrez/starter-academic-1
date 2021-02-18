@@ -1,5 +1,6 @@
 ---
-
+# An instance of the Featured widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: teaching
 active: true
 
@@ -9,8 +10,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: 'Teaching'
-subtitle:
+title: Teaching
+subtitle: ""
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
