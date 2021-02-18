@@ -21,9 +21,12 @@ bio: Postdoctoral researcher at INRIA Saclay and École polytechnique. My resear
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Metric geometry
+- Tropical optimisation
+- Stochastic optimisation
+- Functional analysis
+- Optimal transportation
+- Deep learning
 
 # Education to show in About widget
 education:
@@ -52,6 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/awgutierrez
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/0000-0001-5010-7103  
 # - icon: linkedin
  # icon_pack: fab
  # link: https://www.linkedin.com/
