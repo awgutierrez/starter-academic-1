@@ -6,32 +6,32 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 101
+  weight = 110
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 102
+  weight = 120
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 103
+  weight = 130
 
 [[main]]
   name = "Conferences"
   url = "#conferences"
-  weight = 104
+  weight = 140
  
 [[main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 105
+  weight = 150
   
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 106
+  weight = 160
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
