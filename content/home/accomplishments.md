@@ -41,9 +41,9 @@ item:
   title: First course in probability and statistics
   url: https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1112926672
 
-- certificate_url: '22
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
+- certificate_url: ""
+  date_end: "2020-02-00"
+  date_start: "2020-01-00"
   description: ""
   organization: Aalto University
   organization_url: ""
