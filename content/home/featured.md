@@ -12,6 +12,8 @@ weight: 120
 title: Publications
 subtitle: ""
 
+date_format: Jan 2006
+
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
