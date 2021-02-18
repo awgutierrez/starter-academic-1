@@ -3,6 +3,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: accomplishments
 active: true
+
 # This file represents a page section.
 headless: true
 
@@ -22,28 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
+- certificate_url: ""
+  date_end: "2020-05-00"
+  date_start: "2020-04-00"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
+  organization: Aalto University
+  organization_url: ""
+  title: Brownian motion and stochastic analysis
+  url: "https://mycourses.aalto.fi/course/view.php?id=26934"
+
+- certificate_url: ""
+  date_end: "2020-04-00"
+  date_start: "2020-02-00"
+  description: ""
+  organization: Aalto University
+  organization_url: 
+  title: First course in probability and statistics
+  url: https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1112926672
+
+- certificate_url: '22
   date_end: "2017-12-21"
   date_start: "2017-07-01"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  organization: Aalto University
+  organization_url: ""
+  title: Metric spaces
+  url: "https://oodi.aalto.fi/a/opintjakstied.jsp?OpinKohd=1142267517"
 ---
