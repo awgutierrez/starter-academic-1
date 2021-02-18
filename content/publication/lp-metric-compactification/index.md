@@ -26,7 +26,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Canadian Mathematical Bulletin*
-publication_short: In *Can. Math. Bull. 62, No. 3, 491-507 (2019).*
+publication_short: In *Can. Math. Bull. 62, No. 3, 491-507 (2019)*
 
 abstract: The notion of metric compactification was introduced by Gromov and later rediscovered by Rieffel. 
           It has been mainly studied on proper geodesic metric spaces. We present here a generalization of 
