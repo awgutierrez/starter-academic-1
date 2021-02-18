@@ -42,7 +42,7 @@ summary: The notion of metric compactification was introduced by Gromov and late
           We also give a full characterization of the metric compactification of infinite-dimensional Hilbert spaces.
 
 
-tags: []
+tags: ["metric compactification","horofunction compactification","geodesic metric space","metric boundary","Banach spaces","$\\ell_p$ spaces"]
 
 # Display this page in the Featured widget?
 featured: true
