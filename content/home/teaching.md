@@ -1,7 +1,7 @@
 ---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: teaching
+widget: pages
 active: true
 
 # This file represents a page section.
@@ -30,7 +30,7 @@ item:
   organization: "Aalto University"
   organization_url: ""
   title: "Brownian motion and stochastic analysis"
-  url: https://mycourses.aalto.fi/course/view.php?id=26934
+  url: "https://mycourses.aalto.fi/course/view.php?id=26934"
   
 - certificate_url: ""
   date_end: "2020-04-07"
@@ -39,7 +39,7 @@ item:
   organization: "Aalto University"
   organization_url: ""
   title: "First course in probability and statistics"
-  url: https://bit.ly/39qkw6N
+  url: "https://bit.ly/39qkw6N"
   
 - certificate_url: ""
   date_end: "2020-02-20"
@@ -48,5 +48,5 @@ item:
   organization: "Aalto University"
   organization_url: ""
   title: "Metric spaces"
-  url: https://bit.ly/3skFWuA
+  url: "https://bit.ly/3skFWuA"
 ---
