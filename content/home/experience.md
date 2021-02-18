@@ -25,7 +25,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Researcher
     company: ['INRIA Saclay','École polytechnique'] 
-    company_url: 'https://www.inria.fr/en/centre-inria-saclay-ile-de-france'
+   # company_url: ['https://www.inria.fr/en/centre-inria-saclay-ile-de-france',
     organization_url: 'https://www.polytechnique.edu/'
     location: France
     date_start: '2020-08-01'
