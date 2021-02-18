@@ -7,9 +7,9 @@ widget: tag_cloud
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 107
 
-title: Popular Topics
+title: Keywords
 subtitle: ''
 
 content:
