@@ -15,7 +15,7 @@ subtitle: ""
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+ date_format: Jan 2006
 
 
 #   Add/remove as many `item` blocks below as you like.
@@ -36,7 +36,7 @@ item:
   date_start: "2020-02-24"
   description: ""
   organization: Aalto University
-  organization_url: 
+  organization_url: ""
   title: First course in probability and statistics
   url: https://bit.ly/39qkw6N
 - certificate_url: ""
