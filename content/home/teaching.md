@@ -2,7 +2,6 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: teaching
-active: true
 
 # This file represents a page section.
 headless: true
@@ -17,36 +16,62 @@ title: "Teaching experience"
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-content: courses
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: courses
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
+  
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-item:
-- certificate_url: ""
-  date_end: "2020-05-22"
-  date_start: "2020-04-14"  
-  description: ""
-  organization: "Aalto University"
-  organization_url: ""
-  title: "Brownian motion and stochastic analysis"
-  url: "https://mycourses.aalto.fi/course/view.php?id=26934"
+# item:
+# - certificate_url: ""
+#  date_end: "2020-05-22"
+ # date_start: "2020-04-14"  
+  # description: ""
+  # organization: "Aalto University"
+ # organization_url: ""
+#  title: "Brownian motion and stochastic analysis"
+#  url: "https://mycourses.aalto.fi/course/view.php?id=26934"
   
-- certificate_url: ""
-  date_end: "2020-04-07"
-  date_start: "2020-02-24"
-  description: ""
-  organization: "Aalto University"
-  organization_url: ""
-  title: "First course in probability and statistics"
-  url: "https://bit.ly/39qkw6N"
+# - certificate_url: ""
+ # date_end: "2020-04-07"
+ # date_start: "2020-02-24"
+ # description: ""
+ # organization: "Aalto University"
+ # organization_url: ""
+ # title: "First course in probability and statistics"
+ # url: "https://bit.ly/39qkw6N"
   
-- certificate_url: ""
-  date_end: "2020-02-20"
-  date_start: "2020-01-07"
-  description: ""
-  organization: "Aalto University"
-  organization_url: ""
-  title: "Metric spaces"
-  url: "https://bit.ly/3skFWuA"
+# - certificate_url: ""
+ # date_end: "2020-02-20"
+ # date_start: "2020-01-07"
+ # description: ""
+ # organization: "Aalto University"
+ # organization_url: ""
+ # title: "Metric spaces"
+ # url: "https://bit.ly/3skFWuA"
 ---
