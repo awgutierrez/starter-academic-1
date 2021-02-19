@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position in the list.
 title: Numerical dynamical systems
-subtitle: "Sep 2013 - Dec 2013
+subtitle: "Sep 2013 - Dec 2013"
 summary: New xxxxxxLearn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
