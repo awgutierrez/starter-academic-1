@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position in the list.
-title: Numerical dynamical systems
+linktitle: Numerical dynamical systems
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
