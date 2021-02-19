@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position in the list.
-linktitle: Numerical dynamical systems
+title: Numerical dynamical systems
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 
@@ -15,8 +15,8 @@ type: docs  # Do not modify.
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: Overview
-    weight: 1
+# menu:
+ # example:
+ #   name: Overview
+ #   weight: 1
 ---
