@@ -11,7 +11,7 @@ weight: 130
 
 title: "Teaching experience"
 # subtitle: ""
-
+featured: true
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
@@ -43,18 +43,19 @@ design:
   #   4 = Citation (publication only)
   view: 2
   
+  content:
 #   Add/remove as many `item` blocks below as you like.
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-# item:
-# - certificate_url: ""
-#  date_end: "2020-05-22"
- # date_start: "2020-04-14"  
-  # description: ""
-  # organization: "Aalto University"
+ item:
+ - certificate_url: ""
+   date_end: "2020-05-22"
+   date_start: "2020-04-14"  
+   description: ""
+   organization: "Aalto University"
  # organization_url: ""
-#  title: "Brownian motion and stochastic analysis"
+   title: "Brownian motion and stochastic analysis"
 #  url: "https://mycourses.aalto.fi/course/view.php?id=26934"
   
 # - certificate_url: ""
