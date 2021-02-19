@@ -2,7 +2,7 @@
 # Course title, summary, and position in the list.
 linktitle: Matrix computations
 summary: New xxxxxxLearn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+weight: 2
 
 # Page metadata.
 title: Overview
