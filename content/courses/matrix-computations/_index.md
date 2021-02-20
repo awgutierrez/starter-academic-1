@@ -30,16 +30,16 @@ The student learns to analyse and solve problems in linear algebra that occur of
 The course focuses on solutions of linear systems, least squares problems, eigenvalue problems, and stability of numerical methods.    
 
 **Content:**    
-+ matrix decompositions and their numerical computation   
-+ eigenvalue iterations   
-+ sparse matrices   
-+ iterative methods for solving linear systems    
++ Matrix decompositions and their numerical computation   
++ Eigenvalue iterations   
++ Sparse matrices   
++ Iterative methods for solving linear systems    
 + LU decomposition, Cholesky decomposition, QR decomposition and Givens rotations   
-+ perturbation analysis   
-+ fixed-point iteration   
-+ line search methods   
-+ gradient descent algorithm    
-+ orthogonal projections and Krylov subspaces   
++ Perturbation analysis   
++ Fixed-point iteration   
++ Line search methods   
++ Gradient descent algorithm    
++ Orthogonal projections and Krylov subspaces   
 
 **Study material:**   
 + Golub, G.H. and Van Loan C.F. Matrix computations (3rd edition). John Hopkins University Press, 1996    
