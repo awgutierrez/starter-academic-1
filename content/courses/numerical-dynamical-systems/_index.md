@@ -21,8 +21,8 @@ type: book
 weight: 1
 ---
 
-_Lecturers:_ prof. Timo Eirola and prof. Luca Dieci (Georgia Tech, Atlanta)   
-_Tutorials:_ on Fridays in M3 at 10:15 by Armando Gutiérrez.
+**Lecturers:** Timo Eirola and [Luca Dieci(Georgia Tech, Atlanta)](https://math.gatech.edu/people/luca-dieci)    
+**Teaching assistant:** Armando W. Gutiérrez.
 
 During this course we concentrate in numerical methods for finding some important quantities and objects of dynamical systems. 
  - Solution methods for systems of equations, especially of those that are underdetermined
@@ -33,5 +33,5 @@ During this course we concentrate in numerical methods for finding some importan
 This course suits well for students in mathematics, mechanics, systems analysis, control engineering, and computational science and engineering. 
 The course work consists of lectures, exercises and tutorials, home work, and a special assignment.
 
-_Material:_ lecturers' written notes   
-_Grading:_ grade will come from a combination of exam points and AHP points (that is Attendance, Home work, and Project work). A project work problem will be given a couple of weeks before the end of the course. Working in pairs or groups is allowed and encouraged. Anyway everyone returns her/his own solution papers.
+**Material:** lecture notes      
+**Grading:** grade comes from a combination of exam points and AHP points (that is Attendance, Home work, and Project work). A project work problem is given a couple of weeks before the end of the course. Working in pairs or groups is allowed and encouraged. Anyway everyone returns her/his own solution papers.
