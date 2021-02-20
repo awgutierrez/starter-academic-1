@@ -21,7 +21,7 @@ type: book
 weight: 1
 ---
 
-**Lecturers:** Timo Eirola and [Luca Dieci(Georgia Tech, Atlanta)](https://math.gatech.edu/people/luca-dieci)    
+**Lecturers:** [Timo Eirola](http://math.aalto.fi/~teirola/) and [Luca Dieci](https://math.gatech.edu/people/luca-dieci) (Georgia Tech, Atlanta)   
 **Teaching assistant:** Armando W. Gutiérrez.
 
 During this course we concentrate in numerical methods for finding some important quantities and objects of dynamical systems. 
