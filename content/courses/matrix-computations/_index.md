@@ -6,7 +6,7 @@ title: Numerical matrix computations
 linktitle: Numerical matrix computations
 
 # Page summary for search engines.
-summary: Aalto University, Jan 2014 - Feb 2014
+summary: Aalto University. Jan 2014 - Feb 2014
 
 # Date page published
 # date: 2018-09-09
