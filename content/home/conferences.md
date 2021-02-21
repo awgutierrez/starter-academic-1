@@ -38,6 +38,6 @@ item:
     url: 'http://www.fields.utoronto.ca/activities/20-21/fieldsmedalsym'
     certificate_url: ''
     date_start: '2020-10-19'
-    date_end: '2017-10-23'
+    date_end: '2020-10-23'
     description: 'Online participation.'
 --- 
