@@ -1,6 +1,7 @@
 ---
 title: Teaching assistant experience
 cms_exclude: true
+type: pages
 
 # View.
 #   1 = List
