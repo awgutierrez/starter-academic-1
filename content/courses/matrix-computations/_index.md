@@ -42,5 +42,5 @@ The course focuses on solutions of linear systems, least squares problems, eigen
 + Orthogonal projections and Krylov subspaces   
 
 **Study material:**   
-+ Golub, G.H. and Van Loan C.F. Matrix computations (3rd edition). John Hopkins University Press, 1996    
-+ Trefethen, L.N. and Bau, D. Numerical linear algebra (1st edition). SIAM, 1997
++ Golub, G.H. and Van Loan C.F. *Matrix computations* (3rd edition). John Hopkins University Press, 1996    
++ Trefethen, L.N. and Bau, D. *Numerical linear algebra* (1st edition). SIAM, 1997
