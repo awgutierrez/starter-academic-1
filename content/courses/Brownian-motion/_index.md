@@ -9,7 +9,7 @@ linktitle: Brownian motion and stochastic analysis
 summary: Aalto University. Apr 2020 - May 2020
     
 # Date page published
- date: 2020-04-31
+date: 2020-04-31
 # date: ""
 lastmod: ""
 draft: false  # Is this a draft? true/false
