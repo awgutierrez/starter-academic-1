@@ -9,8 +9,8 @@ linktitle: First course in probability and statistics
 summary: Aalto University. Feb 2020 - Apr 2020 (online)
 
 # Date page published
-# date: 2018-09-09
-date: ""
+ date: 2020-02-31
+# date: ""
 lastmod: ""
 draft: false  # Is this a draft? true/false
 toc: false # Show table of contents? true/false
