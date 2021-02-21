@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 3
+weight: 998
 ---
 
 **Lecturer:** [Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna) (Jan 2015 - Apr 2015), 
