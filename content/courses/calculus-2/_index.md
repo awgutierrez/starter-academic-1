@@ -35,4 +35,4 @@ This is a six-week undergraduate-level course designed for engineering students 
 + Double and triple integrals       
 
 **Study material:**   
-+ Adams, R. and Essex, C. Calculus: a complete course (7th edition). Pearson Education Canada, 2009    
++ Adams, R. and Essex, C. *Calculus: a complete course* (7th edition). Pearson Education Canada, 2009    
