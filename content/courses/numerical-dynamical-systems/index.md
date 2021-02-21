@@ -18,7 +18,7 @@ toc: false  # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 1000
 ---
 
 **Lecturers:** [Timo Eirola](http://math.aalto.fi/~teirola/) and [Luca Dieci](https://math.gatech.edu/people/luca-dieci) (Georgia Tech, Atlanta)   
