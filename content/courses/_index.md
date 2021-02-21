@@ -4,11 +4,6 @@ cms_exclude: true
 layout: docs
 # type: book
 
-content:
-  count: 3
-design:
-  # Use a 1-column layout
-  columns: "2"
 # View.
 #   1 = List
 #   2 = Compact
