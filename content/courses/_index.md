@@ -1,10 +1,11 @@
 ---
 title: Teaching assistant experience
 cms_exclude: true
+layout: docs
 # type: book
 
-featured: true
-
+content:
+  count: 3
 design:
   # Use a 1-column layout
   columns: "2"
