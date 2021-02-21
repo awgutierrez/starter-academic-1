@@ -39,5 +39,5 @@ This is a six-week undergraduate-level course designed for students with a major
 + Cauchy formula and it consequences     
 
 **Study material:**   
-+ Mathews, J.H. and Howel, R.W. Complex analysis for mathematics and engineering (6th edition). Jones & Bartlett Learning, 2011      
-+ Peltonen, K. Lectures notes
++ Mathews, J.H. and Howel, R.W. *Complex analysis for mathematics and engineering* (6th edition). Jones & Bartlett Learning, 2011      
++ Peltonen, K. *Lectures notes*
