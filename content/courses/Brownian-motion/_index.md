@@ -6,7 +6,7 @@ title: Brownian motion and stochastic analysis
 linktitle: Brownian motion and stochastic analysis
 
 # Page summary for search engines.
-summary: Aalto University, Apr 2020 - May 2020
+summary: Aalto University. Apr 2020 - May 2020
     
 # Date page published
 date: 2018-09-09
@@ -15,13 +15,14 @@ date: 2018-09-09
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 1
+weight: 11
 ---
 
-This is a six-week graduate-level course designed for students with a major in mathematics, applied mathematics, physics, and computer science.
+This is a six-week graduate-level course designed for students with a major in mathematics, applied mathematics, physics, or computer science.
 The course introduces the student to the key techniques to work with Brownian motion, stochastic integration, martingales, and Ito’s formula.
-The course content includes topics such as Brownian motion, stochastic integral, Ito’s formula and applications.   
-**Study material:**
-     - Le Gall, J.-F. Brownian Motion, Martingales, and Stochastic Calculus. Graduate Texts in Mathematics, 2016.
-     - Durrett, R. Stochastic calculus: a practical introduction. CRC Press, Probability and Stochastics Series, 1996.
-     - Berestycki, N. Stochastic calculus. Online lecture notes.
+The course content includes topics such as Brownian motion, stochastic integral, Ito’s formula and applications.    
+
+**Study material:**   
++ Le Gall, J.-F. *Brownian Motion, Martingales, and Stochastic Calculus*. Graduate Texts in Mathematics, 2016
++ Durrett, R. *Stochastic calculus: a practical introduction*. CRC Press, Probability and Stochastics Series, 1996  
++ Berestycki, N. *Stochastic calculus*. Online lecture notes
