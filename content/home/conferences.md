@@ -46,9 +46,9 @@ item:
   - organization: Bernoulli Center
     organization_url: 'https://bernoulli.epfl.ch/'
     title: 'Dynamics, Geometry and Combinatorics'
-    url: 'https://bernoulli.epfl.ch/events/1489'
+    url: 'courses/brownian-motion/'
     certificate_url: ''
     date_start: '2019-10-21'
     date_end: '2019-10-25'
-    description: 'Online participation.'
+    description: ''
 --- 
