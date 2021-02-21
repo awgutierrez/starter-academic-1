@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 6
+weight: 995
 ---
 
 **Lecturer:** [Georg Metsalo](https://math.aalto.fi/en/people/georg.metsalo)      
