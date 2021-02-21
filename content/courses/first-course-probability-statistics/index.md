@@ -9,7 +9,7 @@ linktitle: First course in probability and statistics
 summary: Aalto University. Feb 2020 - Apr 2020 (online)
 
 # Date page published
-date: 2020-02-31
+# date: 2020-02-31
 # date: ""
 lastmod: ""
 draft: false  # Is this a draft? true/false
@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 10
+weight: 991
 ---
 
 **Lecturer:** [Jukka Kohonen](https://math.aalto.fi/en/people/jukka.kohonen)  
