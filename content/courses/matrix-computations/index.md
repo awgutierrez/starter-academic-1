@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 2
+weight: 999
 ---
 
 **Lecturer:** [Timo Eirola](http://math.aalto.fi/~teirola/)      
