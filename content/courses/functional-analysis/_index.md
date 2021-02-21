@@ -42,5 +42,5 @@ This is a graduate-level course designed for students with a major in mathematic
 + singular value decomposition  
 
 **Study material:**   
-+ Nevanlinna, O. Lecture notes        
-+ Turunen, V. Lecture notes
++ Nevanlinna, O. *Lecture notes*        
++ Turunen, V. *Lecture notes*
