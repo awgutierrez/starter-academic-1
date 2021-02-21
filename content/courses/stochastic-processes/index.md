@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 5
+weight: 996
 ---
 
 **Lecturers:** [Lasse Leskelä](http://math.aalto.fi/~lleskela/) (2014); [Kalle Kytölä](http://math.aalto.fi/~kkytola/) (2016)        
