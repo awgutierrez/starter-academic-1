@@ -6,7 +6,7 @@ title: Stochastic processes
 linktitle: Stochastic processes
 
 # Page summary for search engines.
-summary: Aalto University, Sep 2014 - Dec 2014; Sep 2016 - Oct 2016
+summary: Aalto University. Sep 2014 - Dec 2014; Sep 2016 - Oct 2016
 
 # Date page published
 # date: 2018-09-09
@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 3
+weight: 5
 ---
 
 **Lecturers:** [Lasse Leskelä](http://math.aalto.fi/~lleskela/) (2014); [Kalle Kytölä](http://math.aalto.fi/~kkytola/) (2016)        
@@ -38,5 +38,5 @@ types of stochastic processes used in the modelling of random phenomena.
 + queues           
 
 **Study material:**      
-+ Durrett, R. Essentials of stochastic processes. Springer, 2012    
-+ Levin, D. and Peres, Y. and Wilmer, E. Markov chains and mixing times. AMS, 2008    
++ Durrett, R. *Essentials of stochastic processes*. Springer, 2012    
++ Levin, D. and Peres, Y. and Wilmer, E. *Markov chains and mixing times*. AMS, 2008    
