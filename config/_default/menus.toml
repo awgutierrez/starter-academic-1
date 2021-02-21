@@ -15,18 +15,18 @@
 
 [[main]]
   name = "Teaching"
- url = "courses/"
- weight = 130
+  url = "courses/"
+  weight = 130
   
 [[main]]
   name = "Talks"
   url = "#talks"
   weight = 140
 
-# [[main]]
-#  name = "Conferences"
-#  url = "#conferences"
-#  weight = 150
+ [[main]]
+  name = "Conferences"
+  url = "#teaching"
+  weight = 150
   
 [[main]]
   name = "Contact"
