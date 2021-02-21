@@ -1,7 +1,7 @@
 ---
-widget: accomplishments
+widget: teaching
 headless: true  # This file represents a page section.
-
+title: Teaching experience
 # ... Put Your Section Options Here (title etc.) ...
 
 # Date format
