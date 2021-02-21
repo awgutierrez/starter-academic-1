@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Teaching"
-  url = "courses/"
+  url = "#teaching"
   weight = 130
   
 [[main]]
@@ -25,7 +25,7 @@
 
  [[main]]
   name = "Conferences"
-  url = "#teaching"
+  url = "#conferences"
   weight = 150
   
 [[main]]
