@@ -37,5 +37,5 @@ This is a six-week undergraduate-level course designed for students with a major
 + Gauss-Bonnet theorem for surfaces     
 
 **Study material:**   
-+ Pressley, A.N. Elementary differential geometry. Springer Undergraduate Mathematics Series, 2010        
-+ Peltonen, K. Lecture notes
++ Pressley, A.N. *Elementary differential geometry*. Springer Undergraduate Mathematics Series, 2010        
++ Peltonen, K. *Lecture notes*
