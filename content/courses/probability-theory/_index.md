@@ -36,6 +36,6 @@ mathematics.
 + Conditional expectation with respect to a sigma-algebra   
 
 **Study material:**   
-+ Jacod, J. and Protter, P. Probability essentials. Universitext Springer, 2004       
-+ Williams, D. Probability with martingales. Cambridge University Press, 1991   
-+ Kytölä, K. Lecture notes
++ Jacod, J. and Protter, P. *Probability essentials*. Universitext Springer, 2004       
++ Williams, D. *Probability with martingales*. Cambridge University Press, 1991   
++ Kytölä, K. *Lecture notes*
