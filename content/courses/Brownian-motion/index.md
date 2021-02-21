@@ -9,7 +9,7 @@ linktitle: Brownian motion and stochastic analysis
 summary: Aalto University. Apr 2020 - May 2020
     
 # Date page published
-date: 2020-04-31
+# date: 2020-04-31
 # date: ""
 lastmod: ""
 draft: false  # Is this a draft? true/false
@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 11
+weight: 990
 ---
 
 This is a six-week graduate-level course designed for students with a major in mathematics, applied mathematics, physics, or computer science.
