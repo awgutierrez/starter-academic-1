@@ -2,6 +2,8 @@
 widget: accomplishments
 headless: true  # This file represents a page section.
 title: Conferences
+
+weigth: 150
 # ... Put Your Section Options Here (title etc.) ...
 
 # Date format
