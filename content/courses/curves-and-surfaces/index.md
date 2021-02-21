@@ -19,7 +19,7 @@ toc: false # Show table of contents? true/false
 type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 7
+weight: 994
 ---
 
 **Lecturer:** [Kirsi Peltonen](https://math.aalto.fi/en/people/kirsi.peltonen)      
