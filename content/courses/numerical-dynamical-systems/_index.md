@@ -6,7 +6,7 @@ title: Numerical dynamical systems
 linktitle: Numerical dynamical systems
 
 # Page summary for search engines.
-summary: Aalto University, Sep 2013 - Dec 2013
+summary: Aalto University. Sep 2013 - Dec 2013
 
 # Date page published
 date: ""
