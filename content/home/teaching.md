@@ -25,7 +25,7 @@ item:
   - organization: edX
     organization_url: 'https://www.edx.org'
     title: Blockchain Fundamentals
-    url: "/#content/courses/brownian-motion/"
+    url: "content/courses/brownian-motion/index.md"
     certificate_url: 'https://www.edx.org'
     date_start: '2018-03-01'
     date_end: ''
