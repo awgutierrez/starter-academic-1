@@ -1,5 +1,5 @@
 ---
-# title: Teaching experience
+
 # layout: docs  # Do not modify.
 # cms_exclude: true
 
@@ -16,19 +16,20 @@
  # image: ""
 
 widget: pages
+title: Teaching experience
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
   # Page type to display. E.g. post, event, or publication.
-  # page_type: courses
+    page_type: courses
   # Choose how much pages you would like to display (0 = all pages)
   # count: 5
   # Choose how many pages you would like to offset by
   # offset: 0
   # Page order. Descending (desc) or ascending (asc) date.
-  order: desc
+    order: desc
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: ''
@@ -43,5 +44,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)  
-  view: 2
+    view: 1
 ---
