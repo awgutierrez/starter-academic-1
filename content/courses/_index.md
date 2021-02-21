@@ -7,7 +7,7 @@ featured: true
 
 design:
   # Use a 1-column layout
-  columns: "2"
+  columns: "1"
 # View.
 #   1 = List
 #   2 = Compact
