@@ -1,8 +1,13 @@
 ---
 title: Teaching assistant experience
 cms_exclude: true
-# type: book
+type: book
 
+featured: true
+
+design:
+  # Use a 1-column layout
+  columns: "2"
 # View.
 #   1 = List
 #   2 = Compact
