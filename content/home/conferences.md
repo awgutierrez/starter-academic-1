@@ -80,7 +80,7 @@ item:
     date_end: '2018-04-06'
     description: ''    
     
- - organization: University of Barcelona
+  - organization: University of Barcelona
     organization_url: 'http://www.crm.cat/'
     title: 'LLAVEFEST: A Broad Perspective on Finite and Infinite Dimensional Dynamical Systems'
     url: ''
@@ -89,7 +89,7 @@ item:
     date_end: '2017-06-16'
     description: '' 
     
- - organization: University of Göttingen
+  - organization: University of Göttingen
     organization_url: 'https://www.uni-goettingen.de/'
     title: 'Thermodynamic Formalism and Transfer Operator Method'
     url: 'https://www.uni-math.gwdg.de/Spirit2015/'
