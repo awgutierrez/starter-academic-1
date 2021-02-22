@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 180
+weight: 10000
 
 title: Contact
 subtitle:
