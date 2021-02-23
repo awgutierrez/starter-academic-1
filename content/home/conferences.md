@@ -3,7 +3,7 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 title: Participation in conferences
 
-weigth: 150
+weigth: 158
 # ... Put Your Section Options Here (title etc.) ...
 
 # Date format
