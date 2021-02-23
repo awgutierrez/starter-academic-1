@@ -27,6 +27,7 @@ interests:
 - Functional analysis
 - Optimal transportation
 - Deep learning
+- Nonlinear dynamics
 
 # Education to show in About widget
 education:
@@ -48,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:armando.w.gutierrez@inria.fr'
 - icon: google-scholar  
   icon_pack: ai
   link: https://scholar.google.fi/citations?user=hnBZJrQAAAAJ&hl=en
