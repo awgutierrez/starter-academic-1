@@ -1,7 +1,7 @@
 ---
 widget: accomplishments
 headless: true  # This file represents a page section.
-title: Participation in conferences
+title: Seminar talks
 
 weigth: 155
 # ... Put Your Section Options Here (title etc.) ...
