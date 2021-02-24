@@ -6,7 +6,7 @@ title: Brownian motion and stochastic analysis
 linktitle: Brownian motion and stochastic analysis
 
 # Page summary for search engines.
-summary: Aalto University. Apr 2020 - May 2020
+summary: Aalto University. Apr 2020 - May 2020 (online)
     
 # Date page published
 # date: 2020-04-31
