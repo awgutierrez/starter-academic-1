@@ -22,7 +22,7 @@ item:
     url: 'https://www.him.uni-bonn.de/programs/current-trimester-program/interplay-high-dimensional-geometry-probability/description/'
     certificate_url: ''
     date_start: '2021-01-05'
-    date_end: '2020-04-23'
+    date_end: '2021-04-23'
     description: 'Online participation.'
     
   - organization: Cantab Capital Institute for the Mathematics of Information
