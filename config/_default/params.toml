@@ -13,7 +13,7 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-theme = "Strawberry"
+theme = "Forest"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -273,7 +273,7 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
-  google_site_verification = ""
+  google_site_verification = "py4Wee2ER4ooMfMIShPX1WE8V9bpB7mWwwp5N_7Sw48"
 
 ############################
 ## Content Management System
