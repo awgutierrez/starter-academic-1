@@ -37,4 +37,4 @@ item:
 --- 
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-![](/static/media/logo_ST.jpg)  |  ![](/static/media/logo_OAM.jpg)
+<img src="/static/media/logo_ST.jpg" width="100" height="100">  |  <img src="/static/media/logo_OAM.jpg" width="100" height="100">
