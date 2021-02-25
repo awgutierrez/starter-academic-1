@@ -25,7 +25,7 @@ item:
     date_end: ''
     description: >- 
             Research grant for the project "Metric geometry of optimal mass transportation.   
-            ![Finnish Academy of Science and Letters](logo_ST.png)
+            {{< figure library="true" src="logo_ST.png" title="Finnish Academy of Science and Letters" width="90" height="90">}}
     
   - organization: Otto A. Malm Foundation
     organization_url: 'https://en.ottomalm.fi/'
