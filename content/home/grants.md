@@ -36,5 +36,6 @@ item:
     date_end: ''
     description: >-
             Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".   
-            ![Finnish Academy of Science and Letters](/static/media/logo_OAM.jpg)
+            ![Otto A. Malm Foundation](/static/media/logo_OAM.jpg)
 --- 
+![Otto A. Malm Foundation](/static/media/logo_OAM.jpg)
