@@ -26,7 +26,7 @@ item:
     description: Research grant for the project "Metric geometry of optimal mass transportation".   
             
     
-  - organization: Otto A. Malm Foundation <img src="/static/media/logo_ST.jpg" width="100" height="100"> 
+  - organization: Otto A. Malm Foundation
     organization_url: 'https://en.ottomalm.fi/'
     title: Research Grant
     url: "http://en.ottomalm.fi.kotisivukone.com/stipends-granted-2020"
@@ -35,6 +35,5 @@ item:
     date_end: ''
     description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
 --- 
-| Italic             |  Block letters |
 :-------------------------:|:-------------------------:
-<img src="/static/media/logo_ST.jpg" width="100" height="100">  |  <img src="/static/media/logo_OAM.jpg" width="100" height="100">
+<img src="/static/media/logo_ST.jpg" width="120" height="120">  |  <img src="/static/media/logo_OAM.jpg" width="100" height="100">
