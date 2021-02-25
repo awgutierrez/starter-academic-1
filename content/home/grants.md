@@ -23,9 +23,8 @@ item:
     certificate_url: ''
     date_start: '2020-04-01'
     date_end: ''
-    description: >- 
-            Research grant for the project "Metric geometry of optimal mass transportation.   
-            {{< figure library="true" src="logo_ST.png" title="Finnish Academy of Science and Letters" width="90" height="90">}}
+    description: Research grant for the project "Metric geometry of optimal mass transportation".   
+            
     
   - organization: Otto A. Malm Foundation
     organization_url: 'https://en.ottomalm.fi/'
@@ -34,8 +33,6 @@ item:
     certificate_url: ''
     date_start: '2020-06-01'
     date_end: ''
-    description: >-
-            Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".   
-            ![Otto A. Malm Foundation](/static/media/logo_OAM.jpg)
+    description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
 --- 
-{{< figure library="true" src="logo_OAM.jpg" title="Otto A. Malm Foundation" width="90" height="90">}}
+{{< figure library="true" src="logo_ST.png" title="Finnish Academy of Science and Letters" width="90" height="90">}}  {{< figure library="true" src="logo_OAM.jpg" title="Otto A. Malm Foundation" width="90" height="90">}}
