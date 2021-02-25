@@ -35,6 +35,6 @@ item:
     date_start: '2020-06-01'
     date_end: ''
     description: >-
-            Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation.   
-            ![Finnish Academy of Science and Letters](logo_OAM.jpg)
+            Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".   
+            ![Finnish Academy of Science and Letters](/static/media/logo_OAM.jpg)
 --- 
