@@ -36,7 +36,5 @@ item:
     description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
 --- 
 {.table}
-| Disk 0 | Disk 1 | Disk 2 | Disk 3 |
-|:------:|:------:|:------:|:-------:|
-|   A1   |   A2   |   A3   | Ap(1-3) |
-{{< figure library="true" src="logo_ST.jpg" width="260" >}}{{< figure library="true" src="logo_OAM.jpg"  width="160" height="140" >}}
+| {{< figure library="true" src="logo_ST.jpg" width="260" >}} | {{< figure library="true" src="logo_OAM.jpg"  width="160" height="140" >}} |
+|:------:|:------:|
