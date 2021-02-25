@@ -3,7 +3,7 @@ widget: accomplishments
 headless: true  # This file represents a page section.
 title: Grants
 
-weigth: 122
+weigth: 117
 # ... Put Your Section Options Here (title etc.) ...
 
 # Date format
@@ -23,7 +23,9 @@ item:
     certificate_url: ''
     date_start: '2020-04-01'
     date_end: ''
-    description: 'Research grant for the project "Metric geometry of optimal mass transportation"'
+    description: >- 
+            Research grant for the project "Metric geometry of optimal mass transportation.   
+            ![Finnish Academy of Science and Letters](logo_SA.png)
     
   - organization: Otto A. Malm Foundation
     organization_url: 'https://en.ottomalm.fi/'
@@ -32,5 +34,7 @@ item:
     certificate_url: ''
     date_start: '2020-06-01'
     date_end: ''
-    description: 'Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation"'
+    description: >-
+            Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation.   
+            ![Finnish Academy of Science and Letters](logo_OAM.jpg)
 --- 
