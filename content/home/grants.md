@@ -35,4 +35,4 @@ item:
     date_end: ''
     description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
 --- 
-{{< figure library="true" src="logo_ST.jpg" style="margin: 0px 5px 5px 0px; float: left; width:140px; height:140px; border:0" >}}{{< figure library="true" src="logo_OAM.jpg" style="margin: 0px 5px 5px 0px; float: left; width:100px; height:100px; border:0" >}}
+{{< figure library="true" src="logo_ST.jpg" style="margin: 0px 5px 5px 0px; float: left; width:140px; height:140px; border:0" >}}{{< figure library="true" src="logo_OAM.jpg" style="margin: 0px 5px 5px 0px; float: left; width:80px; height:80px; border:0" >}}
