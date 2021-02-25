@@ -38,4 +38,4 @@ item:
             Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".   
             ![Otto A. Malm Foundation](/static/media/logo_OAM.jpg)
 --- 
-![Otto A. Malm Foundation](/static/media/logo_OAM.jpg)
+{{< figure library="true" src="logo_OAM.jpg" title="Otto A. Malm Foundation" >}}
