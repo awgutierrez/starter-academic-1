@@ -37,4 +37,3 @@ item:
 --- 
 {.table}
 | {{< figure library="true" src="logo_ST.jpg" width="260" >}} | {{< figure library="true" src="logo_OAM.jpg"  width="160" height="140" >}} |
-|:------:|:------:|
