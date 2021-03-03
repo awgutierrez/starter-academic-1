@@ -17,7 +17,7 @@ organizations:
   url: https://www.polytechnique.edu/
   
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral researcher at INRIA Saclay and École polytechnique. My research interests lie broadly in metric geometry, functional analysis, probability, and dynamics.
+bio: Postdoctoral researcher at INRIA Saclay and École polytechnique. My research interests lie broadly in metric geometry, functional analysis, optimisation, and nonlinear dynamics.
 
 # Interests to show in About widget
 interests:
@@ -26,8 +26,8 @@ interests:
 - Stochastic optimisation
 - Functional analysis
 - Optimal transportation
-- Deep learning
 - Nonlinear dynamics
+- Deep learning
 
 # Education to show in About widget
 education:
@@ -50,6 +50,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:armando.w.gutierrez@inria.fr'
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-5010-7103
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/AAP-7648-2020  
 - icon: google-scholar  
   icon_pack: ai
   link: https://scholar.google.fi/citations?user=hnBZJrQAAAAJ&hl=en
