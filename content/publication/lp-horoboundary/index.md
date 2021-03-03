@@ -39,7 +39,7 @@ summary: We give a complete description of the horofunction boundary of finite-d
           As a consequence, we describe the horofunctions for Hilbert’s projective metric on the interior of the standard cone $\\mathbf{R}^\\mathcal{N}_{+}$ 
           of $\\mathbf{R}^\\mathcal{N}$.
 
-tags: ["horofunction boundary","horofunction","Busemann function","horofunction compactification","metric spaces","$\\ell_p$ spaces","variation norm","Hilbert's projective metric","fixed points","tropical operator","Perron's theorem","Hilbert metric cones"]
+tags: ["horofunction boundary","horofunction","Busemann function","horofunction compactification","metric spaces","$\\ell_p$ spaces","variation norm","Hilbert's projective metric","fixed point","tropical operator","Perron's theorem","positive cone"]
 
 # Display this page in the Featured widget?
 featured: true
