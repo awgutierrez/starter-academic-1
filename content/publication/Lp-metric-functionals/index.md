@@ -33,7 +33,7 @@ abstract: We present a complete characterization of the metric compactification 
 # Summary. An optional shortened abstract.
 summary: We present a complete characterization of the metric compactification of $L_p$ spaces for $1 \\leq p < \\infty$. Each element of the metric compactification of $L_p$ is represented by a random measure on a certain Polish space. By way of illustration, we revisit the $L_p$-mean ergodic theorem for $1 < p < \\infty$, and Alspach’s example of an isometry on a weakly compact convex subset of $L_1$ with no fixed points.
 
-tags: ["metric compactification","horofunction compactification","metric functional","horofunction","Busemann function","isometry","random measure","mean ergodic theorem","fixed points","Lp spaces"]
+tags: ["metric compactification","horofunction compactification","metric functional","horofunction","Busemann function","isometry","random measure","mean ergodic theorem","fixed point","$L_p$ spaces"]
 
 # Display this page in the Featured widget?
 featured: true
