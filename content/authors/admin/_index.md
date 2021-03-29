@@ -20,26 +20,25 @@ organizations:
 bio: Postdoctoral researcher at INRIA Saclay and École polytechnique. My research interests lie broadly in metric geometry, functional analysis, optimisation, and nonlinear dynamics.
 
 # Interests to show in About widget
-interests:
-- Metric geometry
-- Tropical optimisation
-- Stochastic optimisation
-- Functional analysis
-- Optimal transportation
-- Nonlinear dynamics
-- Deep learning
+# interests:
+# - Metric geometry
+# - Tropical optimisation
+# - Stochastic optimisation
+# - Functional analysis
+# - Optimal transportation
+# - Nonlinear dynamics
 
 # Education to show in About widget
-education:
-  courses:
-  - course: Doctor of Science (Technology)
-    institution: Aalto University
-    link: https://www.aalto.fi/en
-    year: 2019
-  - course: Diploma in Mathematical Engineering
-    institution: Central University of Ecuador
-    link: http://www.uce.edu.ec/
-    year: 2010
+# education:
+ # courses:
+ # - course: Doctor of Science (Technology)
+ #   institution: Aalto University
+ #   link: https://www.aalto.fi/en
+ #   year: 2019
+ # - course: Diploma in Mathematical Engineering
+ #   institution: Central University of Ecuador
+ #   link: http://www.uce.edu.ec/
+ #   year: 2010
 
 
 # Social/Academic Networking
@@ -85,4 +84,4 @@ highlight_name: false
 
 I am a postdoctoral researcher in the [TROPICAL](https://team.inria.fr/tropical/) team at [INRIA Saclay – Île-de-France](https://www.inria.fr/en/centre-inria-saclay-ile-de-france) and the [Centre de Mathématiques Appliquées](https://portail.polytechnique.edu/cmap/en) at the [École polytechnique](https://www.polytechnique.edu/). My research interests lie in the fields of metric geometry, optimisation, functional analysis, and nonlinear dynamics. My research work is supervised by [Cormac Walsh](https://homepages.dias.ie/walsh/) and [Stéphane Gaubert](http://www.cmap.polytechnique.fr/~gaubert/).  
 
-I earned a Doctor of Science degree from Aalto University in 2019. My doctoral dissertation titled [Metric compactification of Banach spaces](https://aaltodoc.aalto.fi/handle/123456789/41224) was supervised by [Anders Karlsson](https://www.unige.ch/math/folks/karlsson/) from the University of Geneva together with [Kalle Kytölä](https://math.aalto.fi/~kkytola/) and [Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna) from Aalto University. 
+I earned a Doctor of Science degree from [Aalto University](https://www.aalto.fi/en) in 2019. My doctoral dissertation titled [Metric compactification of Banach spaces](https://aaltodoc.aalto.fi/handle/123456789/41224) was supervised by [Anders Karlsson](https://www.unige.ch/math/folks/karlsson/) from the University of Geneva together with [Kalle Kytölä](https://math.aalto.fi/~kkytola/) and [Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna) from Aalto University. 
