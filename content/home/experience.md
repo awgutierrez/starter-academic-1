@@ -40,9 +40,7 @@ experience:
     date_start: '2019-01-01'
     date_end: '2020-05-31'
     description: >-
-        I conducted scientific research in mathematics with emphasis in metric geometry and probability with applications in dynamics. 
-        I also worked as a teaching assistant in courses such as complex analysis, metric spaces, curves and surfaces, stochastic analysis, probability and statistics. 
-        My supervisor was [Kalle Kytölä](https://math.aalto.fi/~kkytola/).
+        Mentor: [Kalle Kytölä](https://math.aalto.fi/~kkytola/)
         
   - title: Doctoral Candidate
     company: Aalto University
@@ -51,7 +49,7 @@ experience:
     date_start: '2013-08-01'
     date_end: '2018-12-31'
     description: >-
-        I conducted scientific research in mathematics with emphasis in metric geometry, functional analysis and probability. 
-        I developed methods and techniques to describe geometric features of metric spaces.
-        I also worked as a teaching assistant in courses such as metric spaces, complex analysis, functional analysis, probability theory, and stochastic processes.
+        Supervisor: [Kalle Kytölä](https://math.aalto.fi/~kkytola/)
+        Advisors: [Anders Karlsson](https://www.unige.ch/math/folks/karlsson/), [Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna)
+        
 ---
