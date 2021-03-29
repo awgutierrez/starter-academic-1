@@ -29,9 +29,9 @@ publication_types: ["3"]
 # publication: In *Annals of Functional Analysis*
 # publication_short: In *Ann. Funct. Anal. 11, No. 2, 227-243 (2020)*
 
-abstract:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of ℓ1. We also point out some inaccurate assertions appearing in the literature on this topic.
+abstract:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
 # Summary. An optional shortened abstract.
-summary:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of ℓ1. We also point out some inaccurate assertions appearing in the literature on this topic.
+summary:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
 
 tags: ["metric functional","horofunction","isometry","mean ergodic theorem","fixed point","nonexpansive map","invariant subspace"]
 
