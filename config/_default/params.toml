@@ -16,7 +16,7 @@
 theme = "Forest"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = " TROPICAL team at INRIA Saclay – Île-de-France"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Postdoctoral researcher at INRIA Saclay and École polytechnique. My research interests lie broadly in metric geometry, functional analysis, optimisation, and nonlinear dynamics."
 
 ############################
 ## Site Features
