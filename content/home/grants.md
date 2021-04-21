@@ -34,6 +34,6 @@ item:
     date_end: ''
   #  description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
 --- 
-| {{< figure library="true" src="logo_ST.jpg" width="720" height="555" >}} | {{< figure library="true" src="logo_OAM.jpg"  width="720" height="555" >}} |
+| [{{< figure library="true" src="logo_ST.jpg" width="720" height="575" caption="Finnish Academy of Science and Letters">}}](https://www.acadsci.fi/en/) | {{< figure library="true" src="logo_OAM.jpg"  width="720" height="555" >}} |
 | :----------------------: | :----------------------: |
 |   Research Grant 2020, 2021  |   Research Grant 2020  |
