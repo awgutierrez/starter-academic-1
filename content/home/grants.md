@@ -33,11 +33,7 @@ item:
     date_start: '2020-06-01'
     date_end: ''
   #  description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
-  
-header:
-   caption: ""
-   image: "logo_ST.jpg"
 --- 
 |    Italic                          |        Block letters                            |
 | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
-|        ![](starter-academic-1/static/media/logo_ST.jpg =720x555)         |        ![](starter-academic-1/static/media/logo_OAM.jpg =720x555)         |
+|  {{< figure library="true" src="logo_ST.jpg" width="720" height="555" >}}   |  {{< figure library="true" src="logo_OAM.jpg"  width="720" height="555" >}}   |
