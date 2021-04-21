@@ -28,5 +28,5 @@ weigth: 117
 --- 
 |   Research Grant 2020, 2021  |   Research Grant 2020  |
 | :----------------------: | :----------------------: |
-| [{{< figure library="true" src="logo_ST.jpg" height="550" width="720" >}}](https://www.acadsci.fi/en/) | [{{< figure library="true" src="logo_OAM.jpg" height="500" width="600" >}}](https://en.ottomalm.fi/) |
+| [![]({{< figure library="true" src="logo_ST.jpg" height="550" width="720" title="Finnish Academy of Science and Letters" >}})](https://www.acadsci.fi/en/) | [{{< figure library="true" src="logo_OAM.jpg" height="500" width="600" >}}](https://en.ottomalm.fi/) |
 
