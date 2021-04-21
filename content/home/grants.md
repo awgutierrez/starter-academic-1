@@ -23,12 +23,8 @@ item:
     certificate_url: ''
     date_start: '2020-04-01'
     date_end: ''
-    header:
-      caption: ""
-      image: "logo_ST.jpg"
  #   description: Research grant for the project "Metric geometry of optimal mass transportation".   
-            
-    
+               
   - organization: Otto A. Malm Foundation
     organization_url: 'https://en.ottomalm.fi/'
     title: Research Grant
@@ -37,6 +33,10 @@ item:
     date_start: '2020-06-01'
     date_end: ''
   #  description: Research grant for the project "Barycenter maps, metric compactification, and optimal mass transportation".
+  
+header:
+   caption: ""
+   image: "logo_ST.jpg"
 --- 
 |    Italic                          |        Block letters                            |
 | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
