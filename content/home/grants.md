@@ -26,8 +26,8 @@ weigth: 117
  #   description: Research grant for the project "Metric geometry of optimal mass transportation".   
                
 --- 
-- Research Grant 2020, 2021 from the [Finnish Academy of Science and Letters](https://www.acadsci.fi/en/)   
-{{< figure library="true" src="logo_ST.jpg" height="200" width="200" >}}     
+- Research Grant (2020, 2021) awarded by the [Finnish Academy of Science and Letters](https://www.acadsci.fi/en/)   
+{{< figure library="true" src="logo_ST.jpg" height="300" width="300" >}}     
 
-- Research Grant 2020 from the [Otto A. Malm Foundation](https://en.ottomalm.fi/)    
-{{< figure library="true" src="logo_OAM.jpg" height="200" width="200" >}}
+- Research Grant (2020) awarded by the [Otto A. Malm Foundation](https://en.ottomalm.fi/)    
+{{< figure library="true" src="logo_OAM.jpg" height="300" width="300" >}}
