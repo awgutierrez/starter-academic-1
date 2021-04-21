@@ -37,4 +37,4 @@ item:
 --- 
 |                                                      Italic                                                      |                                                         Block letters                                                          |
 | :------------------------------------------------------------------: | :------------------------------------------------------------------: |
-|        ![](static/media/logo_ST.jpg)         |        ![](static/media/logo_OAM.jpg)         |
+|        ![](./static/media/logo_ST.jpg =720x555)         |        ![](./static/media/logo_OAM.jpg =720x555)         |
