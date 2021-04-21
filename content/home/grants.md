@@ -1,6 +1,6 @@
 ---
 widget: accomplishments
-headless: true  # This file represents a page section.
+headless: false  # This file represents a page section.
 title: Grants
 
 weigth: 117
@@ -25,7 +25,7 @@ item:
     date_end: ''
     header:
       caption: ""
-      image: "static/media/logo_ST.jpg"
+      image: "logo_ST.jpg"
  #   description: Research grant for the project "Metric geometry of optimal mass transportation".   
             
     
