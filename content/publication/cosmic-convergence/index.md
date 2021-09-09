@@ -13,8 +13,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-03-26T00:00:00Z"
-doi: ""
+# date: "2021-03-26T00:00:00Z"
+doi: "https://doi.org/10.1007/s11784-021-00896-8"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -23,17 +23,17 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 # publication: In *Annals of Functional Analysis*
-# publication_short: In *Ann. Funct. Anal. 11, No. 2, 227-243 (2020)*
+publication_short: In *J. Fixed Point Theory Appl. 23, 59 (2021)*
 
 abstract:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
 # Summary. An optional shortened abstract.
 summary:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
 
-tags: ["metric functional","horofunction","isometry","mean ergodic theorem","fixed point","nonexpansive map","invariant subspace"]
+tags: ["metric functional","horofunction","isometry","mean ergodic theorem","fixed point","nonexpansive map","invariant subspace","firmly nonexpansive map"]
 
 # Display this page in the Featured widget?
 featured: true
