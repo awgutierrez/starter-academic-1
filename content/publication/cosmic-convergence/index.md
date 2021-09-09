@@ -17,7 +17,7 @@ authors:
 doi: "https://doi.org/10.1007/s11784-021-00896-8"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2017-01-01T00:00:00Z"
+ publishDate: "2021-09-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,7 +26,7 @@ doi: "https://doi.org/10.1007/s11784-021-00896-8"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-# publication: In *Annals of Functional Analysis*
+publication: In *Journal of Fixed Point Theory and Applications*
 publication_short: In *J. Fixed Point Theory Appl. 23, 59 (2021)*
 
 abstract:  This note discusses some aspects of the asymptotic behaviour of nonexpansive maps. Using metric functionals, we make a connection to the invariant subspace problem and prove a new result for nonexpansive maps of $\\ell_{1}$. We also point out some inaccurate assertions appearing in the literature on this topic.
