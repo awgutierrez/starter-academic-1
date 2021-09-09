@@ -13,11 +13,8 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-# date: "2021-03-26T00:00:00Z"
+# date: "2021-09-06T00:00:00Z"
 doi: "https://doi.org/10.1007/s11784-021-00896-8"
-
-# Schedule page publish date (NOT publication's date).
- publishDate: "2021-09-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
